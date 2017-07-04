@@ -1,7 +1,7 @@
 """Custom Map widget."""
 from django.conf import settings
 from django.forms.forms import Media
-from django.forms.util import flatatt
+from django.forms.utils import flatatt
 from django.forms.widgets import Widget
 from django.utils.html import escape
 from django.utils.safestring import mark_safe

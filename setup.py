@@ -26,7 +26,7 @@ for dirpath, dirnames, filenames in os.walk('gmapi'):
 
 
 setup(name='django-gmapi',
-      version='1.0.1-machtfit-1',
+      version='1.0.2-d11',
       description='A Google Maps API implementation for Django',
       author='David Bennett',
       author_email='ungenio@gmail.com',
